@@ -1,16 +1,5 @@
-// =================================================================================================
-// PAGE CONFIGURATION OBJECT
-// This file defines all the dynamic content for the case study page.
-// The `renderer.js` file reads this object to build the HTML.
-// To change text, images, or other content, edit the values in this file.
-// =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_
 const config = {
   "globals": {
-    "companyName": "Eric Palin",
-    "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
-    "primaryColor": "#e3c379",
-    "accentColor": "#d9c6a2",
     "agents": [
       {
         "name": "Eric Palin",
@@ -26,7 +15,13 @@ const config = {
           }
         ]
       }
-    ]
+    ],
+    "companyName": "Eric Palin",
+    "mainCTAButtonText": "Book A Discovery Call",
+    "mainCTAButtonURL": "https://calendly.com/bookericnow/discovery-call-w-eric-palin",
+    "primaryColor": "#e3c379",
+    "accentColor": "#d9c6a2",
+    "facebookPixelId": ""
   },
   "header": {
     "tag": "CASE STUDY",
@@ -64,7 +59,8 @@ const config = {
         "With such a unique, fully renovated property in a prime building, the buyer pool was incredibly limited, making traditional marketing approaches useless",
         "There were no true comparables to justify the price point, leaving the sellers vulnerable to lowball offers and skeptical buyers",
         "Their biggest fear wasn't just leaving money on the table—it was watching their significant investment in design and renovation disappear into market pessimism"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -78,7 +74,8 @@ const config = {
       ],
       "testimonial": {
         "quote": "\"\"Eric, I trust you—what is your advice?\" That's what I told him from day one, and he delivered beyond our expectations. In a market where everyone was telling us to wait or slash our price, Eric saw what our property truly was worth and had the expertise to prove it to the right buyers. He didn't just sell our condo—he protected our investment and gave us the confidence to move forward with our new goals.\"<br><span>— Satisfied Client</span>"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -88,7 +85,8 @@ const config = {
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1764807178364-8Q5A0212.jpg"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -102,7 +100,8 @@ const config = {
         "<strong>$1,500,000</strong> Final Sale Price",
         "<strong>98%</strong> of List Price Achieved",
         "<strong>28 Days</strong> to Sold in a \"Difficult\" Market"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -111,7 +110,8 @@ const config = {
         "<strong>Market noise doesn't determine your property's value—strategic positioning does.</strong> When everyone says condos aren't selling, the right agent creates a different category entirely, positioning your unique property where it belongs.",
         "<strong>Limited comparables aren't a weakness when you have the right story.</strong> Properties with significant design investments and unique qualities need agents who can articulate value beyond spreadsheets and make buyers understand why they're paying a premium.",
         "<strong>Quality showings beat quantity every time.</strong> Seven carefully curated viewings with pre-qualified, genuinely interested buyers generated two offers—because the right marketing attracts the right people, not tire-kickers."
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "ctaBanner",
@@ -123,24 +123,24 @@ const config = {
     }
   ],
   "footer": {
+    "privacyPolicy": {
+      "text": "Privacy Policy",
+      "href": "https://remaxhouse.ab.ca/privacy.php"
+    },
     "logo": {
       "src": "https://app.salesgenius.co/api/user-images/c663e095-4887-4d9a-871f-93f4a6542527?v=c44b72ac62160ed4290f083ad82836145904c53f39c39270579752d91ccc0e95"
+    },
+    "secondaryLogo": {
+      "src": "https://rankmyagent.com/upload/brokerage/1622645722_remaxhouse.png"
     },
     "brokerageLabel": "Brokerage:",
     "brokerageName": "RE/MAX House of Real Estate",
     "brokerageAddress": "4034 16th Street SW, Calgary, Alberta, T2T 4H4",
-    "secondaryLogo": {
-      "src": "https://rankmyagent.com/upload/brokerage/1622645722_remaxhouse.png"
-    },
-    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary.",
-    "privacyPolicy": {
-      "text": "Privacy Policy",
-      "href": "https://remaxhouse.ab.ca/privacy.php"
-    }
-  }
+    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary."
+  },
+  "githubRepo": "https://github.com/arslvn93/Case-Study-960"
 };
 
-// Export for Node.js environment (if applicable) or set for browser
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = config;
 } else if (typeof window !== 'undefined') {
