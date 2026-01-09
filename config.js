@@ -55,10 +55,10 @@ const config = {
       "type": "standard",
       "title": "The Challenge",
       "paragraphs": [
-        "The prevailing narrative in Calgary was that condominiums—especially luxury condos—were struggling to hold value, creating immediate concern about potential losses",
-        "With such a unique, fully renovated property in a prime building, the buyer pool was incredibly limited, making traditional marketing approaches useless",
-        "There were no true comparables to justify the price point, leaving the sellers vulnerable to lowball offers and skeptical buyers",
-        "Their biggest fear wasn't just leaving money on the table—it was watching their significant investment in design and renovation disappear into market pessimism"
+        "The reality in Calgary was that the condominium market was completely saturated with inventory, creating a slow-moving environment where units could sit for months",
+        "With such a unique, fully renovated luxury property in a prime building, we knew it operated on different dynamics than the general condo market—but conveying that to buyers required precision",
+        "There were no true comparables to justify the price point, leaving the seller vulnerable to lowball offers and skeptical buyers who lumped all condos together",
+        "The biggest fear wasn't just market timing—it was ensuring the significant investment in design and renovation would be recognized and valued appropriately by the right buyers\n"
       ],
       "listItems": []
     },
@@ -66,9 +66,9 @@ const config = {
       "type": "standard",
       "title": "The Strategy",
       "paragraphs": [
-        "Rejected cookie-cutter pricing strategies and instead positioned the property as what it truly was: a rare opportunity with no real competition, leveraging deep Calgary luxury market expertise to set strategic pricing that attracted serious buyers",
-        "Transformed the listing into an experience worthy of Architectural Digest, using true architectural photography and directed video to showcase the Tano Studio renovation's craftsmanship and atmosphere",
-        "Bypassed mass marketing noise with targeted outreach directly to qualified buyers and top-producing agents who specialized in luxury properties",
+        "Rejected cookie-cutter condo pricing strategies and instead positioned the property as what it truly was: architectural luxury that transcends general market conditions, leveraging deep Calgary luxury market expertise to set strategic pricing that attracted serious buyers",
+        "Transformed the listing into an experience worthy of Architectural Digest, using true architectural photography and directed video to showcase the renovation's craftsmanship and atmosphere",
+        "Bypassed mass marketing noise with targeted outreach directly to qualified luxury buyers and top-producing agents who understood the difference between a condo and a design masterpiece",
         "Created invitation-only, curated luxury viewing experiences that turned showings into exclusive events, making buyers feel they'd discovered something extraordinary",
         "Armed buyers with comprehensive information and irrefutable evidence of the property's unique quality, building confidence that justified the premium positioning even without traditional comparables"
       ],
@@ -81,7 +81,7 @@ const config = {
       "type": "standard",
       "title": "The Solution",
       "paragraphs": [
-        "After hearing the same generic advice from other agents about \"waiting for the market to turn\" or \"dropping the price significantly,\" these sellers made a different choice. They chose to work with someone who saw opportunity where others saw obstacles—an agent with proven luxury experience, relentless drive, innovative marketing, and a design-forward approach that could tell their property's story with the precision it deserved."
+        "After hearing generic advice from other agents about the saturated condo market and suggestions about price adjustments or extended timelines, this seller made a different choice. He chose to work with someone who understood that luxury properties operate by different rules—an agent with proven luxury experience, relentless drive, innovative marketing, and a design-forward approach that could tell the property's story with the precision it deserved.\n"
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1764807178364-8Q5A0212.jpg"
@@ -92,9 +92,9 @@ const config = {
       "type": "standard",
       "title": "The Results",
       "paragraphs": [
-        "SOLD FOR $1,500,000 in a market where condos were supposedly \"unsellable\"",
-        "Achieved 98% OF LISTING PRICE with strategic positioning that protected the sellers' investment",
-        "CLOSED IN JUST 28 DAYS with 2 offers generated from only 7 strategic showings—proving quality over quantity",
+        "SOLD FOR $1,500,000 to two retiring executives seeking their perfect downtown residence\n",
+        "Achieved 98% OF LISTING PRICE with strategic positioning that protected the seller's investment\n",
+        "CLOSED IN JUST 28 DAYS with 2 offers generated from only 7 strategic showings—proving quality over quantity\n",
         "Secured ONE OF THE HIGHEST PRICE-PER-SQUARE-FOOT RECORDS for public sale in the building's history",
         "<strong>Key Stats That Matter:</strong>",
         "<strong>$1,500,000</strong> Final Sale Price",
@@ -107,9 +107,9 @@ const config = {
       "type": "standard",
       "title": "Conclusion",
       "paragraphs": [
-        "<strong>Market noise doesn't determine your property's value—strategic positioning does.</strong> When everyone says condos aren't selling, the right agent creates a different category entirely, positioning your unique property where it belongs.",
-        "<strong>Limited comparables aren't a weakness when you have the right story.</strong> Properties with significant design investments and unique qualities need agents who can articulate value beyond spreadsheets and make buyers understand why they're paying a premium.",
-        "<strong>Quality showings beat quantity every time.</strong> Seven carefully curated viewings with pre-qualified, genuinely interested buyers generated two offers—because the right marketing attracts the right people, not tire-kickers."
+        "Market saturation doesn't determine your luxury property's value—strategic positioning does. When the general condo market is oversupplied, the right agent creates a different category entirely, positioning your unique property where it belongs: in the luxury segment that operates by different rules.",
+        "Limited comparables aren't a weakness when you have the right story. Properties with significant design investments and unique qualities need agents who can articulate value beyond spreadsheets and make buyers understand why they're paying a premium.\n",
+        "Quality showings beat quantity every time. Seven carefully curated viewings with pre-qualified, genuinely interested buyers generated two offers—because the right marketing attracts the right people, not tire-kickers.\n"
       ],
       "listItems": []
     },
@@ -117,7 +117,7 @@ const config = {
       "type": "ctaBanner",
       "ctaBannerContent": {
         "subhead": "Trusted By Hundreds Of Home Buyers & Sellers",
-        "headline": "Book Your Complimentary Luxury Property Strategy Session—discover exactly how we'll position your unique property to command premium pricing, attract qualified buyers, and sell on your timeline (not the market's). Limited availability for sellers ready to act with intention.",
+        "headline": "Book Your Complimentary Luxury Property Strategy Session—discover exactly how we'll position your unique property to command premium pricing, attract qualified buyers, and sell on your timeline (not the market's). Limited availability for sellers ready to act with intention.\n",
         "smallText": "Book A Discovery Call Now ➡️"
       }
     }
