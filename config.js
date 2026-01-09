@@ -30,14 +30,14 @@ const config = {
   },
   "mainBox": {
     "summary": {
-      "title": "How We Sold a $1.5 Million Downtown Calgary Condo in Just 28 Days When the Market Said It Was Impossible",
+      "title": "How We Sold a $1.5 Million Downtown Calgary Condo in Just 28 Days When the Market Was Saturated",
       "heroImage": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1764807055092-Tano-1807-2A-Full-Res.jpg"
       },
       "subTitle": "Summary",
       "paragraphs": [
-        "Meet two retiring high-level executives who had built their dream downtown sanctuary—a completely redesigned 2-bedroom, 2.5-bath masterpiece in one of Calgary's most prestigious buildings. As empty nesters splitting their time between cities, they needed to sell at precisely the wrong moment: when everyone was telling them the Calgary condo market was dead.",
-        "Through professional service and market expertise, we delivered exceptional results for our client. SOLD FOR $1,500,000 in a market where condos were supposedly \"unsellable\" Achieved 98% OF LISTING PRICE with strategic positioning that protected the sellers' investment. CLOSED IN JUST 28 DAYS with 2 offers generated from only 7 strategic showings—proving quality over quantity. Secured ONE OF THE HIGHEST PRICE-PER-SQUARE-FOOT RECORDS for public sale in the building's history <strong>. Key Stats That Matter:</strong> <strong>$1,500,000</strong> Final Sale Price <strong>98%</strong> of List Price Achieved <strong>28 Days</strong> to Sold in a \"Difficult\" Market"
+        "An executive had transformed his downtown sanctuary into something extraordinary—a completely redesigned 2-bedroom, 2.5-bath masterpiece in one of Calgary's most prestigious buildings. With meticulous attention to every detail and significant capital invested in the renovation, he needed to sell at a challenging moment: when Calgary's condo market was completely saturated with inventory.",
+        "Through professional service and market expertise, we delivered exceptional results for our client. SOLD FOR $1,500,000 in a market drowning in condo inventory. Achieved 98% OF LISTING PRICE with strategic positioning that protected the seller's investment. CLOSED IN JUST 28 DAYS with 2 offers generated from only 7 strategic showings—proving quality over quantity. Secured ONE OF THE HIGHEST PRICE-PER-SQUARE-FOOT RECORDS for public sale in the building's history."
       ]
     },
     "sidebar": {
