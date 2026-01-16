@@ -25,12 +25,12 @@ const config = {
   },
   "header": {
     "tag": "CASE STUDY",
-    "title": "How We Sold a $1.5 Million Downtown Calgary Condo in Just 28 Days When the Market Said It Was Impossible",
+    "title": "How We Sold a $1.5 Million Downtown Calgary Condo in Just 28 Days in a Saturated Market",
     "subheadline": "Sold at 98% of Ask With One of the Highest Price-Per-Square-Foot Records in a Market That Had Written Off Condos"
   },
   "mainBox": {
     "summary": {
-      "title": "How We Sold a $1.5 Million Downtown Calgary Condo in Just 28 Days When the Market Was Saturated",
+      "title": "How We Sold a $1.5 Million Downtown Calgary Condo in Just 28 Days in a Saturated Market",
       "heroImage": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1764807055092-Tano-1807-2A-Full-Res.jpg"
       },
