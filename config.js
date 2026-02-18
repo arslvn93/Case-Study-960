@@ -21,7 +21,7 @@ const config = {
     "mainCTAButtonURL": "https://calendly.com/bookericnow/discovery-call-w-eric-palin",
     "primaryColor": "#e3c379",
     "accentColor": "#d9c6a2",
-    "facebookPixelId": ""
+    "facebookPixelId": "3368295823337488"
   },
   "header": {
     "tag": "CASE STUDY",
