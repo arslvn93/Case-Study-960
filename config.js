@@ -11,14 +11,14 @@ const config = {
           },
           {
             "type": "phone",
-            "value": "4035596847"
+            "value": "(403) 559-6847"
           }
         ]
       }
     ],
     "companyName": "Eric Palin",
     "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "https://calendly.com/bookericnow/discovery-call-w-eric-palin",
+    "mainCTAButtonURL": "https://calendly.com/ericpalin/discovery_call",
     "primaryColor": "#e3c379",
     "accentColor": "#d9c6a2",
     "facebookPixelId": "3368295823337488"
